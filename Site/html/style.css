@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'pricedownblack';
+    src: url('gtafont.woff2') format('woff2'), url('gtafont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: darkgray;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: white;
+    font-family: 'pricedownblack';
+}
+
+h1 {
+    position: fixed;
+    left: 750px;
+    top: 30px;
+    font-size: 50px;
+}
+
+iframe {
+    position: fixed;
+    top: 500px;
+}
+
+h2 {
+    position: fixed;
+    top: 150px;
+    left: 700px;
+}
+
+h2 a {
+    color: white;
+}
+
+img.sorrynotsorry {
+    position: fixed;
+    padding: 450px;
+    right: 100px;
+    top: 400px;
+}
+
+img.image2buddyalsowhyyoukeeplookingherebroyoursoweirdddditlogstodaconsoleeachtimeihopeyouseeurselfrnquitlooking {
+    position: fixed;
+    padding: 400px;
+    right: 0px;
+    left: 1200px;
+}
+
+img.brooverpartyquestionn {
+    position: fixed;
+    padding: 200px;
+    top: 300px;
+}
