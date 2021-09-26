@@ -5,7 +5,7 @@
 	<h4 align="center">
         <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License: CC BY-NC-SA 4.0"></img></a>
         &nbsp;
-		<a href="https://discord.gg/SHz9z3G4e2"><img src="https://discordapp.com/api/guilds/885198955305107467/widget.png?style=shield"></img></a>
+		<a href="https://discord.gg/U88tTVB3"><img src="https://discordapp.com/api/guilds/885198955305107467/widget.png?style=shield"></img></a>
 	</h4>
 	<p align="center">
 		The old discord bot. I made to work with the auth system I was using.
