@@ -30,5 +30,16 @@ Step One Click a folder dir Run **CMD**.
 Step Two Run **Npm Install --save**
 Step Three Run **Node .** (Make sure you edit the)
 ```
-
-
+#### How to use?
+```
+PerformHttpRequest("http://iphere/sfihsafouihsdf", function(result, data)
+    if (data:gsub("%\"", "") == "ERR_404_DIR_INVALID") then 
+        print("^2License Activated!")
+        Citizen.CreateThread(function()
+          -- script here
+     
+        else
+            print("^1License Deactivated ^0")
+        end
+        end)
+	```
