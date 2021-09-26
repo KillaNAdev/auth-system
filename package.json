@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "discord.js": "^13.1.0",
+        "gcommands": "^6.2.6",
+        "mysql": "^2.18.1"
+    },
+    "name": "whitelist-system",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "node main.js": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Aspect",
+    "license": "ISC",
+    "description": ""
+}
