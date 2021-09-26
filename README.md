@@ -25,7 +25,7 @@
 ### Install
 ```
 https://nodejs.org/en/ (Make sure this is installed)
-Also if you plan on editing this to work with what ever you use my ip whitelist system used a mysql database
+Need Mysql Database
 Step One Click a folder dir Run **CMD**.
 Step Two Run **Npm Install --save**
 Step Three Run **Node .** (Make sure you edit the)
