@@ -25,10 +25,8 @@
 ### Install
 ```
 https://nodejs.org/en/ (Make sure this is installed)
-Need Mysql Database
-Step One Click a folder dir Run **CMD**.
-Step Two Run **Npm Install --save**
-Step Three Run **Node .** (Make sure you edit the)
+Make sure to setup a mysql database and add run the sql file.
+Then you would want to setup the site first this is how it makes a post request I would also install pm2 to keep this running then for the discord bot your gonna wanna do npm i to install it config the bot token then start it.
 ```
 #### How to use?
 ```
