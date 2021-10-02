@@ -10,6 +10,14 @@ con.connect(function(err) {
     if (err) throw err;
     console.log("Connected!");
 });
+
+/*
+ONLY EDIT THE PREFIX BELOW! AND THE TOKEN!
+
+
+DO NOT MESSAGE ME IF YOU BREAK SOMETHING I DO NOT CARE!
+*/ 
+
 const client = new GCommandsClient({
     cmdDir: "commands/",
     eventDir: "events/",
