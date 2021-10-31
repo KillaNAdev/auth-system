@@ -1,11 +1,10 @@
 {
-  "name": "nodejs",
+  "name": "yo",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "forever": "forever",
-    "devStart": "nodemon server.js"
+    "forever": "forever"
   },
   "author": "",
   "license": "ISC",
